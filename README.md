@@ -9,6 +9,6 @@ refresher.ps1 -workbook NameOfWorkbook.pbix [-publish]
 
 Parameters:
 workbook - filename of PBIX workbook
-publish - switch to publish the workbook 
+publish - switch to publish the workbook, if not passed the workbook is only refreshed and saved locally (useful if OneDrive is used)
 
 
