@@ -1,5 +1,5 @@
 # PBIXRefresher
-Powershell tool for refreshing Power BI (*.pbix) workbooks
+Powershell tool to refresh Power BI (*.pbix) workbooks
 
 ## Dependencies
 Script require UIAutomation libraries to work with GUI of Power BI Desktop interface.
