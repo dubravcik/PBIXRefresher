@@ -1,3 +1,6 @@
+ ## :exclamation: Notice
+ This script is outdated. Please look at next version https://github.com/dubravcik/pbixrefresher-python
+
 # PBIXRefresher
 Powershell tool to refresh Power BI (*.pbix) workbooks
 
